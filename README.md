@@ -1,4 +1,6 @@
 FirstRepo
 =========
 
-First try out
+First try
+
+Check it in
